@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "venv/bin/python",
+    "terminal.integrated.defaultProfile.linux": "fish",
+    "jupyter.allowUnauthorizedRemoteConnection": true 
+}

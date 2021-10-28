@@ -1,0 +1,6 @@
+seaborn
+pandas
+matplotlib
+ipywidgets
+ipython
+sentence_transformers
