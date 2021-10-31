@@ -4,3 +4,7 @@ matplotlib
 ipywidgets
 ipython
 sentence_transformers
+scikit-learn
+surprise
+flake8
+lightfm
